@@ -1,0 +1,35 @@
+_repo: The-Purchase-of-the-North-Pole-A-sequel-to-From-the-earth-to-the-moon_60242
+_version: 0.0.1
+alternative_title: Sans dessus dessous. English
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2019-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction, French -- Translations into English'
+- GITenberg
+title: 'The Purchase of the North Pole
+
+  A sequel to "From the earth to the moon"'
+url: http://www.gutenberg.org/ebooks/60242
