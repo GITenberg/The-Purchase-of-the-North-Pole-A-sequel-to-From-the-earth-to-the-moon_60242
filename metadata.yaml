@@ -1,6 +1,9 @@
 _repo: The-Purchase-of-the-North-Pole-A-sequel-to-From-the-earth-to-the-moon_60242
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Sans dessus dessous. English
+covers:
+- cover_type: archival
+  image_path: 60242-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60242#The-Purchase-of-the-North-Pole-A-sequel-to-From-the-earth-to-the-moon
 gutenberg_issued: '2019-09-05'
 gutenberg_type: Text
 identifiers:
